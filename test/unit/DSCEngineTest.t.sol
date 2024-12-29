@@ -254,7 +254,7 @@ contract DSCEngineTest is Test {
     function testGetCollateralTokens() public view {
         assertEq(engine.getCollateralTokens(0), weth);
     }
-    
+
     function testGetAccountCollateralValue() public userDepositedCollateral {
         assertEq(engine.getAccountCollateralValue(USER), engine.getUsdValue(weth, AMOUNT_COLLATERAL));
     }
