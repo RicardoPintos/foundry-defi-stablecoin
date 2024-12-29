@@ -153,6 +153,7 @@ Then you open another terminal and run this:
 ```
 forge script script/DeployDSC.s.sol:DeployDSC --rpc-url http://127.0.0.1:8545 --account <Your_Encrypted_Anvil_Private_Key_Account_Name> --broadcast -vvvv
 ```
+<br>
 
 ## Deployment to Sepolia testnet
 
@@ -167,6 +168,8 @@ If you have an Etherscan API key, you can verify your contract alongside the dep
 ```
 forge script script/DeployDSC.s.sol:DeployDSC --rpc-url <Your_Alchemy_Sepolia_Node_Url> --account <Your_Encrypted_Sepolia_Private_Key_Account_Name> --broadcast --verify --etherscan-api-key <Your_Etherscan_Api_Key> -vvvv
 ```
+
+<br>
 
 # Acknowledgments
 
