@@ -31,7 +31,7 @@ It was made for the Advanced Foundry course of Cyfrin Updraft.
 
 <br>
 
-![EthereumBanner](https://github.com/user-attachments/assets/8a1c6e53-2e66-4256-9312-252a0360b7df)
+![LokapalBanner](https://github.com/user-attachments/assets/5358f442-06f3-4bf4-b22f-fbefb2743762)
 
 <br>
 
@@ -184,3 +184,5 @@ If you appreciated this, feel free to follow me!
 [![Ricardo Pintos Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pintosric)
 [![Ricardo Pintos Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-mauro-pintos/)
 [![Ricardo Pintos YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PintosRic)
+
+![EthereumBanner](https://github.com/user-attachments/assets/8a1c6e53-2e66-4256-9312-252a0360b7df)
